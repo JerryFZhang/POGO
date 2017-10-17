@@ -935,6 +935,7 @@ h6 {
 
 blockquote {
     position: relative;
+    height: 400px;
 }
 
 .testimonial img {
