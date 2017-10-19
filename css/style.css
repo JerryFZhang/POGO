@@ -554,7 +554,7 @@ section {
     display: inline-block;
     width: 38px;
     height: 71px;
-    color: #111;
+    color: white;
     cursor: pointer;
     text-transform: uppercase;
     font-size: 22px;
@@ -1394,7 +1394,7 @@ blockquote {
 
 #clients img {
     display: inline-block;
-    padding: 15px 25px;
+    padding: 2px 2px;;
 }
 
 .client-overlay {
