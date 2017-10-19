@@ -1383,7 +1383,7 @@ blockquote {
 
 /* --------- 6.6 Clients ---------- */
 
-#clients a {
+#clients .vids a{
     display: block;
     text-align: center;
     position: relative;
