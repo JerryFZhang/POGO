@@ -1395,7 +1395,8 @@ blockquote {
 
 .clients img {
     display: inline-block;
-    padding: 2px 2px;;
+    padding: 2px 2px;
+    width: 100%;
 }
 
 .client-overlay {
