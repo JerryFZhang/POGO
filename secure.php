@@ -1,4 +1,9 @@
 <?php
+$pass = $_POST['pass'];
+
+if($pass == "pogofucks")
+{
+        <?php
     // Initialize the language code variable
 $lc = "";
     // Check to see that the global language server variable isset()
@@ -17,5 +22,14 @@ if($lc == "zh"){
 else{ // don't forget the default case if $lc is empty
     include_once("home-en.html");
     exit();
+}
+?>
+    } else { if(isset($_POST)) {?>
+
+    <form method="POST" action="secure.php">
+        Pass <input type="password" name="pass"></input><br/>
+        <input type="submit" name="submit" value="Go"></input>
+    </form>
+    <?}
 }
 ?>
