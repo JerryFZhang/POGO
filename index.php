@@ -26,7 +26,7 @@ else{ // don't forget the default case if $lc is empty
 ?>
     } else { if(isset($_POST)) {?>
 
-    <form method="POST" action="secure.php">
+    <form method="POST" action="index.php">
         Pass <input type="password" name="pass"></input><br/>
         <input type="submit" name="submit" value="Go"></input>
     </form>
