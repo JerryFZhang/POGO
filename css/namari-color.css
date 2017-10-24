@@ -135,7 +135,7 @@ a:hover, #header.nav-solid nav a:hover {
 
 
 body {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size:15px;
     font-weight:normal;
     color:#111;
@@ -170,7 +170,7 @@ body {
 
 
 #banner h1 {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size:62px;
     line-height:60px;
     font-weight:800;
@@ -179,7 +179,7 @@ body {
 }
 
 #banner h2 {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size:18px;
     font-weight:300;
     color:white;
@@ -189,14 +189,14 @@ body {
 /* Section Title and Subtitle */
 
 .section-title {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size: 34px; 
     font-weight:700;
     color:#111;
 }
 
 .section-subtitle {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size: 16px;
     font-weight:300;
     color:#9c9c9c;
@@ -205,7 +205,7 @@ body {
 /* Testimonial */
 
 .testimonial q {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size: 17px; 
     font-weight:300;
 }
@@ -218,42 +218,42 @@ body {
 /* Standard Headings h1-h6 */
 
 h1 {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size: 40px; 
     font-weight:300;
     color:#111;
 }
 
 h2 {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size: 34px; 
     font-weight:300;
     color:#111;
 }
 
 h3 {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size: 30px; 
     font-weight:700;
     color:#111;
 }
 
 h4 {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size: 18px; 
     font-weight:400;
     color:#111;
 }
 
 h5 {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size: 16px; 
     font-weight:400;
     color:#111;
 }
 
 h6 {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size: 14px; 
     font-weight:400;
     color:#111;
@@ -270,7 +270,7 @@ h6 {
 /* Button Text */
 
 .button, input[type="submit"]  {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size:14px;
     font-weight:bold;
     color:#111;
@@ -298,7 +298,7 @@ h6 {
 /* Button Text */
 
 #banner .button {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size:16px;
     color:white;
 }
@@ -324,7 +324,7 @@ h6 {
 /*------------------------------------------------------------------------------------------*/
 
 #landing-footer, #landing-footer p, #landing-footer a {
-    font-family: 'Open Sans', Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Helvetica', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-size:12px;
     font-weight:normal;
     color:#999;
