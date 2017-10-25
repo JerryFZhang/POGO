@@ -780,6 +780,7 @@ h6 {
 
 #banner {
     background-size: cover;
+    background-color: black;
 }
 
 #banner-content.row {
