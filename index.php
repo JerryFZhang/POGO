@@ -9,10 +9,6 @@ if(isset($_SERVER['HTTP_ACCEPT_LANGUAGE']))
 if($lc == "zh"){
     include_once("home-zh.html");
     exit();
-} else if($lc == "fr"){
-    include_once("home-en.html");
-    //will do later
-    exit();
 }
 else{ // don't forget the default case if $lc is empty
     include_once("home-en.html");
